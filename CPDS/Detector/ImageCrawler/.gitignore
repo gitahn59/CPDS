@@ -1,0 +1,7 @@
+Image/
+.idea/
+Include/
+Lib/
+Scripts/
+*.cfg
+
