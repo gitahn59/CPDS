@@ -1,4 +1,4 @@
-<h2>CPDS(Crossing Pedestrain Detecting System)</h2>
+<h2>CPDS(Crossing Pedestrian Detection System)</h2>
 
 <h3>1. 소개</h3>
 
